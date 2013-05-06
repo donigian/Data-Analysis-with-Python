@@ -12,9 +12,9 @@ This repo includes a set of IPython notebooks which will includes code snippets 
 
 Run Instructions:
 
-1. Start IPython from CL
+Start IPython from CL
 
 `ipython notebook --pylab inline`
 
-2. Import notebook from IPython dashboard
+Import notebook from IPython dashboard
 
